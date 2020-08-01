@@ -1,4 +1,3 @@
-[![Known Vulnerabilities](https://snyk.io/test/github/brkline/project1_sandwich_club/badge.svg?targetFile=app/build.gradle)](https://snyk.io/test/github/brkline/project1_sandwich_club?targetFile=app/build.gradle)
 # Udacity Android Developer Nanodegree Project 1 - Sandwich Club 
 
 ## Project Overview
